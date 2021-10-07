@@ -1,0 +1,22 @@
+{
+  "name": "easy-mdns",
+  "version": "1.0.0",
+  "description": "A simple mDNS config based server that watches for config changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mdns",
+    "easy",
+    "mdns"
+  ],
+  "author": "Austin Kregel <austin@kregel.co>",
+  "license": "MIT",
+  "bin": {
+    "easy-mdns": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ]
+}
