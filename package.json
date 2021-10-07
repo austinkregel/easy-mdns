@@ -1,6 +1,6 @@
 {
   "name": "easy-mdns",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple mDNS config based server that watches for config changes.",
   "main": "index.js",
   "keywords": [
@@ -16,5 +16,10 @@
   "files": [
     "index.js",
     "bin/easy-mdns"
-  ]
+  ],
+  "dependencies": {
+    "bonjour": "^3.5.0",
+    "chokidar": "^3.5.2",
+    "yaml": "^1.10.2"
+  }
 }
