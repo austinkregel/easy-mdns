@@ -1,6 +1,6 @@
 {
   "name": "easy-mdns",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple mDNS config based server that watches for config changes.",
   "main": "index.js",
   "keywords": [
